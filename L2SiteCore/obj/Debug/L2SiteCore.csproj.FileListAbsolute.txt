@@ -1,0 +1,6 @@
+D:\06.TestSource\Mvc3WebSite\L2SiteCore\bin\Debug\L2SiteCore.dll
+D:\06.TestSource\Mvc3WebSite\L2SiteCore\bin\Debug\L2SiteCore.pdb
+D:\06.TestSource\Mvc3WebSite\L2SiteCore\obj\Debug\ResolveAssemblyReference.cache
+D:\06.TestSource\Mvc3WebSite\L2SiteCore\obj\Debug\L2SiteCore.dll
+D:\06.TestSource\Mvc3WebSite\L2SiteCore\obj\Debug\L2SiteCore.pdb
+D:\06.TestSource\Mvc3WebSite\L2SiteCore\bin\Debug\L2SiteCore.dll.config

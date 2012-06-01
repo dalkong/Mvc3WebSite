@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="L2SiteCore.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MailAddr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dalkong1980@gmail.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

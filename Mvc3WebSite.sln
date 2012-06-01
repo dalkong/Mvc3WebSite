@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc3WebSite", "Mvc3WebSite\Mvc3WebSite.csproj", "{2C4AAC93-A59D-48AF-9362-7F479B44FD11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "L2FrameWork", "L2FrameWork", "{B927ECBB-2E27-4D8B-858A-D0D298394981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2SiteCore", "L2SiteCore\L2SiteCore.csproj", "{39B77E09-C8E5-46D3-AFED-ED1D1D10C333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4AAC93-A59D-48AF-9362-7F479B44FD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4AAC93-A59D-48AF-9362-7F479B44FD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4AAC93-A59D-48AF-9362-7F479B44FD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4AAC93-A59D-48AF-9362-7F479B44FD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B77E09-C8E5-46D3-AFED-ED1D1D10C333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B77E09-C8E5-46D3-AFED-ED1D1D10C333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B77E09-C8E5-46D3-AFED-ED1D1D10C333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B77E09-C8E5-46D3-AFED-ED1D1D10C333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{39B77E09-C8E5-46D3-AFED-ED1D1D10C333} = {B927ECBB-2E27-4D8B-858A-D0D298394981}
+	EndGlobalSection
+EndGlobal

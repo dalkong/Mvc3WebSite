@@ -1,0 +1,9 @@
+D:\06.TestSource\Mvc3WebSite\Mvc3WebSite\bin\Mvc3WebSite.dll
+D:\06.TestSource\Mvc3WebSite\Mvc3WebSite\bin\Mvc3WebSite.pdb
+D:\06.TestSource\Mvc3WebSite\Mvc3WebSite\bin\EntityFramework.dll
+D:\06.TestSource\Mvc3WebSite\Mvc3WebSite\bin\EntityFramework.xml
+D:\06.TestSource\Mvc3WebSite\Mvc3WebSite\obj\Debug\ResolveAssemblyReference.cache
+D:\06.TestSource\Mvc3WebSite\Mvc3WebSite\obj\Debug\Mvc3WebSite.dll
+D:\06.TestSource\Mvc3WebSite\Mvc3WebSite\obj\Debug\Mvc3WebSite.pdb
+D:\06.TestSource\Mvc3WebSite\Mvc3WebSite\bin\L2SiteCore.dll
+D:\06.TestSource\Mvc3WebSite\Mvc3WebSite\bin\L2SiteCore.pdb

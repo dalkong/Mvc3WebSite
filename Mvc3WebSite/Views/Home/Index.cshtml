@@ -1,0 +1,19 @@
+﻿@using L2SiteCore
+@{
+    ViewBag.Title = "Home Page";
+    string[] s = ViewBag.aaa;
+}
+
+<h2>@ViewBag.Message</h2>
+<p>
+    @foreach (var v in s)
+    { 
+        @(v)<br />
+    }
+    <br />
+
+    @SiteManager.Config.Host.domain <br />
+    @SiteManager.Config.Host.ip <br />
+    @SiteManager.Config.Host.name <br />
+    @SiteManager.Config.Host.port <br />
+</p>
